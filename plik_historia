@@ -1,0 +1,8 @@
+    1  alias-C=clear
+    2  alias C=clear
+    3  C
+    4  git clone  https://github.com/kingaguzenda/wsb_php_stac.git
+    5  cd wsb
+    6  ls -l
+    7  cd wsb_php_stac
+    8  history > plik_historia
